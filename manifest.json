@@ -1,5 +1,5 @@
 {
-  "name": "My Notes App",
+  "name": "Notes Manager",
   "short_name": "Notes",
   "start_url": "/Notes-Manager/",
   "display": "standalone",
@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "assets/icons/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "assets/icons/icon-512.jpg",
+      "src": "icon-512.jpg",
       "sizes": "512x512",
       "type": "image/jpg"
     }
