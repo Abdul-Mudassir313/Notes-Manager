@@ -1,7 +1,7 @@
 {
   "name": "My Notes App",
   "short_name": "Notes",
-  "start_url": "index.html",
+  "start_url": "/Notes-Manager",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
